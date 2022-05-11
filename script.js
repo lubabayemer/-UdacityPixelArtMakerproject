@@ -1,3 +1,4 @@
+//Use sctrict
 "use strict";
 
 const $tableElement = $('#pixelCanvas');
