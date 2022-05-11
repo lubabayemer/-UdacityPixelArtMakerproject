@@ -4,9 +4,10 @@ body {
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: Sofia;
     font-size: 80px;
     margin: 0.2em;
+    fornt-color: green;
 }
 
 h2 {
